@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{AEAD5C2F-6661-4341-BD53-717EA7ADA31C}|MyTestLib.csproj|solutionrelative:controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AEAD5C2F-6661-4341-BD53-717EA7ADA31C}|MyTestLib.csproj|c:\\projects\\vscode\\github\\mytestlibrary\\mytestlib\\controllers\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEAD5C2F-6661-4341-BD53-717EA7ADA31C}|MyTestLib.csproj|solutionrelative:controllers\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AEAD5C2F-6661-4341-BD53-717EA7ADA31C}|MyTestLib.csproj|c:\\projects\\vscode\\github\\mytestlibrary\\mytestlib\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AEAD5C2F-6661-4341-BD53-717EA7ADA31C}|MyTestLib.csproj|solutionrelative:models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAD5C2F-6661-4341-BD53-717EA7ADA31C}|MyTestLib.csproj|c:\\projects\\vscode\\github\\mytestlibrary\\mytestlib\\controllers\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEAD5C2F-6661-4341-BD53-717EA7ADA31C}|MyTestLib.csproj|solutionrelative:controllers\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,26 +38,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "LibraryContext.cs",
               "DocumentMoniker": "C:\\PROJECTS\\VSCODE\\GITHUB\\MyTestLibrary\\MyTestLib\\Controllers\\LibraryContext.cs",
               "RelativeDocumentMoniker": "Controllers\\LibraryContext.cs",
               "ToolTip": "C:\\PROJECTS\\VSCODE\\GITHUB\\MyTestLibrary\\MyTestLib\\Controllers\\LibraryContext.cs",
               "RelativeToolTip": "Controllers\\LibraryContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-08T13:05:34.567Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Author.cs",
               "DocumentMoniker": "C:\\PROJECTS\\VSCODE\\GITHUB\\MyTestLibrary\\MyTestLib\\Models\\Author.cs",
               "RelativeDocumentMoniker": "Models\\Author.cs",
               "ToolTip": "C:\\PROJECTS\\VSCODE\\GITHUB\\MyTestLibrary\\MyTestLib\\Models\\Author.cs",
               "RelativeToolTip": "Models\\Author.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-08T13:05:17.759Z",
               "EditorCaption": ""
@@ -68,9 +68,9 @@
               "Title": "AuthorController.cs",
               "DocumentMoniker": "C:\\PROJECTS\\VSCODE\\GITHUB\\MyTestLibrary\\MyTestLib\\Controllers\\AuthorController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthorController.cs",
-              "ToolTip": "C:\\PROJECTS\\VSCODE\\GITHUB\\MyTestLibrary\\MyTestLib\\Controllers\\AuthorController.cs",
-              "RelativeToolTip": "Controllers\\AuthorController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
+              "ToolTip": "C:\\PROJECTS\\VSCODE\\GITHUB\\MyTestLibrary\\MyTestLib\\Controllers\\AuthorController.cs*",
+              "RelativeToolTip": "Controllers\\AuthorController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-08T13:02:16.734Z",
               "EditorCaption": ""

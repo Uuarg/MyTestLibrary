@@ -227,3 +227,4 @@ C:\PROJECTS\VSCODE\GITHUB\MyTestLibrary\MyTestLib\obj\Debug\net9.0\compressed\s4
 C:\PROJECTS\VSCODE\GITHUB\MyTestLibrary\MyTestLib\obj\Debug\net9.0\compressed\wjiy093njz-7jhxhf9dnp.gz
 C:\PROJECTS\VSCODE\GITHUB\MyTestLibrary\MyTestLib\obj\Debug\net9.0\compressed\vfa6yxsou7-keibtm5y7g.gz
 C:\PROJECTS\VSCODE\GITHUB\MyTestLibrary\MyTestLib\obj\Debug\net9.0\compressed\ab1nkv5v21-k0v289xazb.gz
+C:\PROJECTS\VSCODE\GITHUB\MyTestLibrary\MyTestLib\obj\Debug\net9.0\MyTestLib.sourcelink.json
